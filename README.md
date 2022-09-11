@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me is tbd
 
-## Projects I Am Working On
+## Projects I Am Working On 
+I'll add the link to these when I want to show them off so stayed tuned
 - [Upgrading a 2d Space Inaders clone]()
 - [S3 static website]()
 - [Road To DevOps]()
