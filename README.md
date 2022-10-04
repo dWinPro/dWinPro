@@ -6,9 +6,9 @@
 
 ## Projects I Am Working On 
 I'll add the link to these when I want to show them off so stayed tuned
-- [Upgrading a 2d Space Inaders clone]()
-- [S3 static website]()
-- [Road To DevOps]()
+- []()
+- []()
+- []()
 - []()
 <!---
 dWinPro/dWinPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
